@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持 GPT-4、4o 和 o1，无需翻墙）【2025年5月更新】
+# ChatGPT 中文版：国内访问指南（支持 GPT-4、4o 和 o1，无需翻墙）【2025年6月更新】
 
-> 更新时间：2025/05/15    
+> 更新时间：2025/06/22    
 
 全面体验 **ChatGPT 中文版**，支持 GPT-4、4o 和 o1，**无需翻墙**就能**轻松使用上 ChatGPT**~
 
@@ -8,8 +8,8 @@
 
 助您在工作、学习和生活中使用上 ChatGPT ，**无限使用 ChatGPT-4、GPT-4o 和 o1**~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
+**ChatGPT 中文版入口：[https://talk.lanjing.pro](https://talk.lanjing.pro)**   
+**ChatGPT 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 1. 为什么选择 ChatGPT 中文版？
 
-**ChatGPT 中文版**是基于 OpenAI的先进 ChatGPT模型的中文版本，专为国内用户提供流畅的智能对话服务。
+[**ChatGPT 中文版**](https://talk.lanjing.pro) 是基于 OpenAI的先进 ChatGPT模型的中文版本，专为国内用户提供流畅的智能对话服务。
 
 与官网相比，**ChatGPT 中文版**有这些优点：
 
@@ -40,19 +40,19 @@
 
 以下是一些推荐的 **ChatGPT 中文版镜像网站**，无需翻墙就能顺畅使用 ChatGPT：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**   
+1. **一下AI ([xsimplechat.com](https://xsimplechat.com/))**   
    **ChatGPT 中文版**，支持 GPT-4、4o、4o mini 及 o1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
-2. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
+2. **AI智慧岛 ([talk.lanjing.pro](https://talk.lanjing.pro/))**  
    **ChatGPT 镜像网站**，多功能平台，支持 GPT-4、4o 及 o1，适合各类用户需求。
 
-3. **AI工具 ([yixiaai.cn](https://yixiaai.cn/))**  
+3. **AI工具 ([gpt4us.org](https://gpt4us.org/chatgpt-china-site))**  
    **AI工具站**，各种AI工具，只要你想要的，这儿全都有~
 
-4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
+4. **小鱼GPT ([chat.yixiaai.com](https://chat.yixiaai.com/))**  
    简单易用的 ChatGPT-4 镜像，快速访问，不需注册。
 
-5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
+5. **蓝鲸AI ([lanjing.pro](https://lanjing.pro/))**  
    **免费 GPT 服务**，支持 GPT-4、4o，提供多元功能。
 
 ---
@@ -73,7 +73,7 @@
 
 ## 4. ChatGPT 中文版的使用指南
 
-1. **选择镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**）。
+1. **选择镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([talk.lanjing.pro](https://talk.lanjing.pro/))**）。
 2. **扫码使用**：
    - **扫码登录**：微信扫码即可快速访问，无需注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
